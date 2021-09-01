@@ -4,7 +4,7 @@ import Home from "./Home"
 function App() {
   return (
     <div>
-      <p>Hello, world!</p>
+      <h2>JUST DO IT</h2>
       <Home></Home>
     </div>
   );
